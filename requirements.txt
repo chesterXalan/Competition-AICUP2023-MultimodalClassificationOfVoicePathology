@@ -1,0 +1,9 @@
+tensorboard
+numpy
+scipy
+pandas
+matplotlib
+tqdm
+torchinfo
+sklearn
+seaborn
